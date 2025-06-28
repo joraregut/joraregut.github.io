@@ -57,10 +57,6 @@ const siteConfig: SiteConfig = {
             href: '/projects'
         },
         {
-            text: 'Blog',
-            href: '/blog'
-        },
-        {
             text: 'Tags',
             href: '/tags'
         }
@@ -92,7 +88,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hola bienvenido a mi portafolio de proyectos',
-        text: "Me llamo **Jorge Arévalo**, un cientifico de datos, me gusta la automatización y las soluciones que realmente funcionan** transformado problemas complejos en respuestas claras, usando herramientas como **Python, SQL, Power Query, y Machine Learning**. Mi enfoque combina precisión técnica con un toque creativo para resolver desafíos de negocio. Siéntete libre de explorar algunos de mis proyectos de codificación en <a href='https://github.com/joraregut'>GitHub</a> conectemos en <a href='https://www.linkedin.com/in/joraregut/'>Linkedin</a>.",
+        text: "Me llamo **Jorge Arévalo**, un cientifico de datos, me gusta la automatización y las soluciones que realmente funcionan, transformado problemas complejos en respuestas claras, usando herramientas como **Python, SQL, Power Query, y Machine Learning**. Mi enfoque combina precisión técnica con un toque creativo para resolver desafíos de negocio. Siéntete libre de explorar algunos de mis proyectos de codificación en <a href='https://github.com/joraregut'>GitHub</a> o conectemos en <a href='https://www.linkedin.com/in/joraregut/'>Linkedin</a>.",
     
         
         image: {
@@ -105,11 +101,6 @@ const siteConfig: SiteConfig = {
                 href: '/contact'
             }
         ]
-    },
-    subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        formUrl: '#'
     },
     postsPerPage: 8,
     projectsPerPage: 8
