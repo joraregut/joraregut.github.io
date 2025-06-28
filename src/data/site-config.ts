@@ -86,24 +86,22 @@ const siteConfig: SiteConfig = {
             href: 'https://www.linkedin.com/in/joraregut/'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'Github',
+            href: 'https://github.com/joraregut'
         }
     ],
     hero: {
         title: 'Hola bienvenido a mi portafolio de proyectos',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        text: "Me llamo **Jorge Arévalo**, un cientifico de datos, me gusta la automatización y las soluciones que realmente funcionan** transformado problemas complejos en respuestas claras, usando herramientas como **Python, SQL, Power Query, y Machine Learning**. Mi enfoque combina precisión técnica con un toque creativo para resolver desafíos de negocio. Siéntete libre de explorar algunos de mis proyectos de codificación en <a href='https://github.com/joraregut'>GitHub</a> conectemos en <a href='https://www.linkedin.com/in/joraregut/'>Linkedin</a>.",
+    
+        
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: 'Ponte en contacto conmigo',
                 href: '/contact'
             }
         ]
